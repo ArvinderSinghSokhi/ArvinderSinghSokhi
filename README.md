@@ -35,5 +35,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arvindersinghsokhi&show_icons=true&locale=en" alt="arvindersinghsokhi" /></p>
 
-![Snake animation](https://github.com/<ArvinderSinghSokhi>/<ArvinderSinghSokhi>/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/<arvindersinghsokhi>/<arvindersinghsokhi>/blob/output/github-contribution-grid-snake.svg)
 
