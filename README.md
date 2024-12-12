@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Arvinder!  
 
-<!--
-**ArvinderSinghSokhi/ArvinderSinghSokhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring **Software Developer** with a passion for **problem-solving** and creating efficient, scalable solutions.  
 
-Here are some ideas to get you started:
+## 🚀 About Me  
+- 🌱 Currently mastering **Java** and diving deep into **Spring Boot** to optimize backend development and enhance security.  
+- 🏆 Building my skills in **Competitive Programming** to sharpen my problem-solving abilities.  
+- 🍵 Coffee lover, anime enthusiast, and a fan of peaceful evening strolls in the park.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Stack  
+- **Languages:** Java, Python  
+- **Frameworks:** Spring Boot (in progress)  
+- **Tools:** Git, IntelliJ IDEA  
+- **Interests:** Backend Development, Algorithms  
+
+## 🌟 Fun Fact  
+I love combining my focus, analytical mindset, and perseverance to tackle coding challenges—qualities I believe make me a great coder!  
+
+## 📫 Let's Connect!  
+- [Email](mailto:arvindersingh6404@gmail.com)    
+
+Feel free to explore my repositories and connect with me for collaboration opportunities. Let's build something amazing together! 🚀  
